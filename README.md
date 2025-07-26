@@ -6,16 +6,22 @@
 <h3 align="center">An aspiring web developer and machine learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuhb008&label=Profile%20views&color=0e75b6&style=flat" alt="nuhb008" /> </p>
+<p align="left">
 
+- 🔭 I’m currently working on full-stack applications, mobile apps, and machine learning projects.<br>
 
-
-- 🔭 I’m currently working on [Proyojon_mobile-app](https://github.com/ziftikhr/Proyojon_mobile-app)
-
-- 🌱 I’m currently learning **React Native**
-
+- 📚 I'm currently learning React Native, AR development with ViroReact, and advanced Firebase features.<br>
+  
+- 🧠 I'm also exploring AI/ML, specifically weakly supervised learning and facial emotion-based recommendation systems.<br>
+  
+- 💡 I love solving problems and building products that can help people.<br>
+  
+- ⚡ Fun fact: I enjoy debugging more than writing code sometimes!
+  
 - 👨‍💻 All of my projects are available at [https://github.com/nuhb008](https://github.com/nuhb008)
 
 - 📫 How to reach me **nuhislam2020@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
